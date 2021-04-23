@@ -1,0 +1,3 @@
+[submodule "boaty"]
+	path = boaty
+	url = https://github.com/blprnt/boaty
