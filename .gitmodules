@@ -1,3 +1,6 @@
 [submodule "boaty"]
 	path = boaty
 	url = https://github.com/blprnt/boaty
+[submodule "boatier"]
+	path = boatier
+	url = https://github.com/blprnt/boaty
